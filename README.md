@@ -12,5 +12,9 @@ The user can make these forms public to start accepting responses and share the 
 
 The creator of the form is able to make changes to the form, view responses, delete responses, and delete the form itself.
 
+![ScreenShot](/ReadmeScreenshots/Builder.JPG)
+![ScreenShot](/ReadmeScreenshots/Register.JPG)
+![ScreenShot](/ReadmeScreenshots/MyForms.JPG)
+
 Additionally, every user who is signed up with an account on this website is able to modify their personal information collected during registration and customize their profile with a profile picture.
 
