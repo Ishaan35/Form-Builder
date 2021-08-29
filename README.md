@@ -12,7 +12,7 @@ The user can make these forms public to start accepting responses and share the 
 
 The creator of the form is able to make changes to the form, view responses, delete responses, and delete the form itself.
 
-![ScreenShot](/ReadmeScreenshots/Builder.JPG)
+![ScreenShot](/ReadmeScreenshots/Builder.png)
 ![ScreenShot](/ReadmeScreenshots/Register.JPG)
 ![ScreenShot](/ReadmeScreenshots/MyForms.JPG)
 
