@@ -18,3 +18,6 @@ The creator of the form is able to make changes to the form, view responses, del
 
 Additionally, every user who is signed up with an account on this website is able to modify their personal information collected during registration and customize their profile with a profile picture.
 
+![ScreenShot](/ReadmeScreenshots/Account.JPG)
+
+
